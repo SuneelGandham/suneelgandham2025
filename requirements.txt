@@ -1,4 +1,11 @@
-pip install requests fastapi uvicorn streamlit
-pip install transformers torch
-pip install transformers torch accelerate einops sentencepiece
-pip install watchdog
+requests 
+fastapi 
+uvicorn 
+streamlit
+transformers 
+torch
+transformers 
+accelerate 
+einops 
+sentencepiece
+watchdog
