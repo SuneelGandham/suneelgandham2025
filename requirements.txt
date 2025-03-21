@@ -9,3 +9,4 @@ accelerate
 einops 
 sentencepiece
 watchdog
+dotenv
